@@ -1,0 +1,16 @@
+.footer {
+  background: var(--color-ink);
+  color: #77746a;
+  padding: var(--space-3) 0 var(--space-4);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  font-family: var(--font-mono), monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
