@@ -83,7 +83,7 @@ export default function Navigation() {
           onClick={(e) => handleNavClick(e, "#hero")}
           aria-label="Back to top"
         >
-          YK.
+          YashK.
         </a>
 
         <nav className={styles.links} aria-label="Primary">
